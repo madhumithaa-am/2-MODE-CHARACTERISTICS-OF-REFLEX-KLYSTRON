@@ -2,7 +2,7 @@
 
 **Aim:**
 
-To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS)
+To study mode characteristics of reflex klystron and hence to determine mode number,transit time electronic tuning range (ETR) and electronic tuning sensitivity (ETS).
 
 **Equipment and Component:**
 
